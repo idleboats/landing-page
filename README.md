@@ -1,0 +1,1 @@
+Hello! This is a landing page, designed as part of The Odin Project's curriculum.
